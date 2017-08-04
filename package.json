@@ -1,0 +1,25 @@
+{
+  "name": "menu-api",
+  "version": "0.0.1",
+  "description": "API for Menu app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pistonsky/menu-api.git"
+  },
+  "author": "Aleksandr Tsygankov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pistonsky/menu-api/issues"
+  },
+  "homepage": "https://github.com/pistonsky/menu-api#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "prettify": "^0.1.7"
+  }
+}
